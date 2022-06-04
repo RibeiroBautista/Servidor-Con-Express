@@ -1,0 +1,16 @@
+{
+  "name": "trabajo-clase6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BautistaRibeiro.js",
+  "scripts": {
+    "start": "node ./BautistaRibeiro.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
