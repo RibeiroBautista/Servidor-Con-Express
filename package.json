@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "BautistaRibeiro.js",
-  "scripts": {
-    "start": "node ./BautistaRibeiro.js"
-  },
+  "scripts": {"start": "nodemon ./index.js"},
   "keywords": [],
   "author": "",
   "license": "ISC",
